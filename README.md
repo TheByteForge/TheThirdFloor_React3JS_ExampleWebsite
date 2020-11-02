@@ -1,1 +1,5 @@
-Preview: https://distracted-hugle-7e7d06.netlify.app/
+Preview Coming As Soon As I Get A Chance To Deploy The App To Heroku / Netlify / Something!
+
+A Three.Js Landing Page developed to demonstrate Three.JS in a React application setting.
+
+Enjoy!
